@@ -1,3 +1,5 @@
+<Spearman rank correlation>
+    Copyright (C) <2026>  <Cathrin Wittig>
 #=====================================================
 # Load data and packages
 #=====================================================
