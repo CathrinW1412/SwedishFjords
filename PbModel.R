@@ -1,5 +1,5 @@
 <Pb_Chla_Model>
-    Copyright (C) <2026>  <Cathrin Wittig>
+    Copyright (C) <2026>  <Sebastiaan van de Velde>
 
 require(ReacTran)
 require(marelac)
