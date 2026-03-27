@@ -1,4 +1,5 @@
-
+<Applying FLIPPER (van de Velde, S. (2022). sevdevel/FLIPPER: v0.1.0 (Version v0.1.0.) Zenodo. https://doi.org/10.5281/zenodo.6624982) to pore water data>
+    Copyright (C) <2026>  <Cathrin Wittig>
 #=====================================================
 # Load data and set working directory
 #=====================================================
